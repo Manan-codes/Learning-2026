@@ -1,10 +1,10 @@
 words = ["hello", "world", "python", "git"]
 
-List Comprehensions
+#List Comprehensions
 uppercased = [word.upper() for word in words if len(word) > 4]
 
 
-Enumerate
+#Enumerate
 for i, word in enumerate(words, start=1):
     print(f"{i} {word}")
 
