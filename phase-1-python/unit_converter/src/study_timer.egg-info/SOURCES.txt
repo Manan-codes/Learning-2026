@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/study_timer.egg-info/PKG-INFO
-src/study_timer.egg-info/SOURCES.txt
-src/study_timer.egg-info/dependency_links.txt
-src/study_timer.egg-info/top_level.txt
-src/unit_converter/__init__.py
-src/unit_converter/logic.py
-tests/test_logic.py
