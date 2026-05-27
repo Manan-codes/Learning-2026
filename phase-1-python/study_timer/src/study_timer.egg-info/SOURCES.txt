@@ -1,7 +1,0 @@
-pyproject.toml
-src/study_timer/__init__.py
-src/study_timer/core.py
-src/study_timer.egg-info/PKG-INFO
-src/study_timer.egg-info/SOURCES.txt
-src/study_timer.egg-info/dependency_links.txt
-src/study_timer.egg-info/top_level.txt
